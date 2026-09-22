@@ -1,6 +1,8 @@
 # Smart-Sunlight-Regulator
 ### A system that regulates the sunlight exposure of a smart home by controlling the window blinds.
 
+The Smart Sunlight Regulator is a system designed to automate the opening and closing the blinds of a persons home. The system provides manual adjustment by using a servo motor for controlling the blinds and a rotary encoder to precisely adjust the blinds angle manually. Additionally, by using a RTC module the system provides convenient automation by time - based schedules for opening and closing of the blinds. The system as a simple and easy to use physical interface, which includes a small OLED display, two buttons and a rotary encoder.
+
 
 ## Components used
 
