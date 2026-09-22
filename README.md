@@ -4,7 +4,7 @@
 
 ## Components used
 
-·	Arduino Uno R3.
+· Arduino Uno R3.
 ·	Mini OLED display 0.96’’ 128x64 I2C
 ·	Rotary Encoder KY - 040
 ·	2x TS04 - 66 - 50 - BK - 260 - SMT Tactile Buttons
